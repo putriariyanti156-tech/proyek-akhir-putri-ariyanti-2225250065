@@ -1,8 +1,8 @@
 
 # Program Rekap dan Analisis Nilai Matematika Kelas
 
-**Nama:** Siti Rohmah  
-**NIM:** 2225250203  
+**Nama:** Putri Ariyanti
+**NIM:** 2225250065  
 **Kelas:** 3A  
 
 ## 1. Deskripsi Program
